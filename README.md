@@ -44,15 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=25sahilsingh&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25sahilsingh&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
 ### 🔐 PrivateChat
@@ -96,5 +87,4 @@
 
 ---
 
-⭐ If you like my work, consider starring my repositories  
 📫 Reach me anytime via LinkedIn or Gmail
