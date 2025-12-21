@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=25sahilsingh&style=for-the-badge&color=0ff" />
+  <img src="https://komarev.com/ghpvc/?username=25sahilsingh&style=for-the-badge&color=00ffff" />
 </p>
 
 ---
