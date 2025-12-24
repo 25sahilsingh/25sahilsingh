@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sahil Singh</h1>
 <h3 align="center">
-  <a href="https://github.com/25sahilsingh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%7C+MongoDB+%7C+Real-Time+Apps;Privacy-Focused+Web+Systems" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%7C+MongoDB+%7C+Real-Time+Apps;Privacy-Focused+Web+Systems" />
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=25sahilsingh&style=for-the-badge&color=00ffff" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=25sahilsingh&style=for-the-badge&color=00ffff" />
 </p>
 
 ---
@@ -41,10 +39,11 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,mongodb,js,html,css,socketio" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,mongodb,js,html,css,socketio" />
 </p>
 
 ---
+
 
 ## 📌 Featured Projects
 
@@ -84,25 +83,6 @@
   <img src="https://img.shields.io/badge/Stack-Full--Stack-0f172a?style=flat" />
   <a href="https://to-do-1-qxs4.onrender.com/">
     <img src="https://img.shields.io/badge/Live%20Demo-Open-blue?style=flat" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/25sahilsingh">
-    <img src="https://github-readme-stats.vercel.app/api?username=25sahilsingh&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/25sahilsingh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25sahilsingh&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/25sahilsingh">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=25sahilsingh&theme=tokyonight&hide_border=true" alt="Activity Graph"/>
   </a>
 </p>
 
