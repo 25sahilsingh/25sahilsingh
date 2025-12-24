@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sahil Singh</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%7C+MongoDB+%7C+Real-Time+Apps;Privacy-Focused+Web+Systems" />
+  <a href="https://github.com/25sahilsingh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%7C+MongoDB+%7C+Real-Time+Apps;Privacy-Focused+Web+Systems" alt="Typing SVG"/>
+  </a>
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=25sahilsingh&style=for-the-badge&color=00ffff" />
+  <img src="https://komarev.com/ghpvc/?username=25sahilsingh&style=for-the-badge&color=00ffff" alt="Profile Views"/>
 </p>
 
 ---
@@ -39,7 +41,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,mongodb,js,html,css,socketio" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,mongodb,js,html,css,socketio" alt="Tech Stack"/>
 </p>
 
 ---
@@ -87,4 +89,23 @@
 
 ---
 
-📫 Reach me anytime via LinkedIn or Gmail
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/25sahilsingh">
+    <img src="https://github-readme-stats.vercel.app/api?username=25sahilsingh&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/25sahilsingh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25sahilsingh&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/25sahilsingh">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=25sahilsingh&theme=tokyonight&hide_border=true" alt="Activity Graph"/>
+  </a>
+</p>
+
+---
+
+📫 Reach me anytime via LinkedIn or Gmail.
